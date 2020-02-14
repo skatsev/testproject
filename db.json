@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "applications": ["Outlook", "Notepad"]
+    },
+       {
+      "id": 2,
+      "applications": ["Outlook"]
+    },
+       {
+      "id": 3,
+      "applications": []
+    },
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
